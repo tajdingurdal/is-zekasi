@@ -39,3 +39,4 @@ public class InsuranceAgency { // Sigorta ettiren acente
 	private String managerLastName;
 	
 }
+ 

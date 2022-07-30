@@ -54,7 +54,7 @@ public class XYLineChart {
 		// sets paint color for each series
 		renderer.setSeriesPaint(0, Color.RED);
 		renderer.setSeriesPaint(1, Color.GREEN);
-
+ 
 		// sets thickness for series (using strokes)
 		renderer.setSeriesStroke(0, new BasicStroke(4.0f));
 		renderer.setSeriesStroke(1, new BasicStroke(3.0f));

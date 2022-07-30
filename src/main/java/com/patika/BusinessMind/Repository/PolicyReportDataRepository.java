@@ -9,3 +9,4 @@ import com.patika.BusinessMind.Model.PolicyReportData;
 public interface PolicyReportDataRepository extends CrudRepository<PolicyReportData, Long> {
 
 }
+ 

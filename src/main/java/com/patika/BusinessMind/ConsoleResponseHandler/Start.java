@@ -11,7 +11,7 @@ import com.patika.BusinessMind.Service.abstracts.IHighLevelManagerService;
 
 @Service
 public class Start {
-
+ 
 	public static Scanner scanner = new Scanner(System.in);
 
 	private static IHighLevelManagerService highLevelManagerService;

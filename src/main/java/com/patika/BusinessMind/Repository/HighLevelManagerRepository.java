@@ -15,3 +15,4 @@ public interface HighLevelManagerRepository extends CrudRepository<HighLevelMana
     Boolean existsByEmail(String email);
 
 }
+ 

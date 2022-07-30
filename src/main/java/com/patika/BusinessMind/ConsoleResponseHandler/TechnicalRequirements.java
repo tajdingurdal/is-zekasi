@@ -29,7 +29,7 @@ import com.patika.BusinessMind.Service.abstracts.IPolicyReportDataService;
 import lombok.AllArgsConstructor;
 
 @Service
-@AllArgsConstructor
+@AllArgsConstructor 
 public class TechnicalRequirements {
 
 	public static Scanner scanner = new Scanner(System.in);
