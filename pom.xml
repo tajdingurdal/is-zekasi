@@ -13,7 +13,7 @@
 	<artifactId>BusinessMind</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>BusinessMind</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Business mind with Spring Boot for Anadolubank</description>
 
 
 	<properties>
